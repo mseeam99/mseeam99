@@ -69,3 +69,7 @@
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/mseeam99/mseeam99/output/snake.svg" alt="Snake animation" />
+
+###
