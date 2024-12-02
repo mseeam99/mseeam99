@@ -5,7 +5,7 @@
 ###
 
 <h3 align="center">
-  My name is Iqbal, and I am a Software Engineer. I am skilled in Python, C/C++, Java, Flutter, and React Native, with backend experience in Firebase and Django. I am passionate about mobile app development, AI, and ML.
+  My name is Iqbal, a Software Engineer skilled in Python, C/C++, Java, Flutter, and React Native, with backend experience in Firebase and Django. Mobile app development, AI, and ML enthusiast.
 </h3>
 
 ###
