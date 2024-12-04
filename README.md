@@ -1,3 +1,5 @@
+![linkedIn COver](https://github.com/user-attachments/assets/6da9a6c3-4187-4984-be24-940c8df6a756)
+
 <br clear="both">
 
 <h1 align="center">Hey 👋 Welcome to my GitHub!</h1>
