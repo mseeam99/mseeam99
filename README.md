@@ -1,5 +1,3 @@
-![linkedIn COver](https://github.com/user-attachments/assets/6da9a6c3-4187-4984-be24-940c8df6a756)
-
 <br clear="both">
 
 <h1 align="center">Hey 👋 Welcome to my GitHub!</h1>
@@ -9,6 +7,8 @@
 <h3 align="center">My name is Iqbal, a Software Engineer skilled in Python, C/C++, Java, Flutter, and React Native, with backend experience in Firebase and Django. Mobile app development, AI, and ML enthusiast.</h3>
 
 ###
+
+![linkedIn COver](https://github.com/user-attachments/assets/6da9a6c3-4187-4984-be24-940c8df6a756)
 
 <h2 align="left">Programming Languages:</h2>
 
