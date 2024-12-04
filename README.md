@@ -8,8 +8,6 @@
 
 ###
 
-![linkedIn COver](https://github.com/user-attachments/assets/6da9a6c3-4187-4984-be24-940c8df6a756)
-
 <h2 align="left">Programming Languages:</h2>
 
 ###
