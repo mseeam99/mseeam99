@@ -4,15 +4,7 @@
 
 ###
 
-<h3 align="center">Interests: Artificial Intelligence | Software Engineering | Algorithm Design
-
-<h3 align="center">Artificial Intelligence: Trained multiple ML models using PyTorch and TensorFlow. Experienced in classification tasks with CNNs and YOLO. As a Research Assistant, worked on time series modeling with LSTM/RNN and the Facebook Prophet library for prediction. Skilled in working with LLMs and OpenAI APIs.
-
-<h3 align="center">Software Engineering: Developed software solutions using React Native, Flutter, Firebase, Django, Flask, AWS, and MySQL. Skilled in Git/GitHub, automation tools (CI/CD, Ansible, Docker), and cloud-based development. As a Software Engineering Intern & Co-op, built cross-platform applications with Flutter for Linux, Android, and iOS.
-
-<h3 align="center">Algorithm Design: Solved 400+ LeetCode problems and regularly participate in Codeforces contests.
-
-</h3>
+<h3 align="center">Interests: Artificial Intelligence | Software Engineering | Algorithm Design </h3>
 
 ###
 
