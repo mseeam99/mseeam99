@@ -1,10 +1,9 @@
 <br clear="both">
 
-<h1 align="center">Hey 👋 Welcome to my GitHub!</h1>
+<h1 align="center">Interests: Artificial Intelligence | Software Engineering | Algorithm Design</h1>
 
 ###
 
-<h3 align="center">Interests: Artificial Intelligence | Software Engineering | Algorithm Design </h3>
 
 ###
 
