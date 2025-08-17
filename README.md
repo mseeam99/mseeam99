@@ -1,8 +1,10 @@
 <br clear="both">
 
-<h1 align="center">Interests: Artificial Intelligence | Software Engineering | Algorithm Design</h1>
 
 ###
+
+<h2 align="center">Interests: Artificial Intelligence | Software Engineering | Algorithm Design </h2>
+
 
 
 ###
