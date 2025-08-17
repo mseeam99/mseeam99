@@ -1,17 +1,9 @@
 <br clear="both">
 
-###
-
 <h2 align="center">Interests: Artificial Intelligence | Software Engineering | Algorithm Design </h2>
 
-###
-
 <h2 align="left">Programming Languages:</h2>
-
-###
-
 <br clear="both">
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="10" />
@@ -20,14 +12,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
 </div>
 
-###
-
 <h2 align="left">Software & Technologies:</h2>
-
-###
-
 <br clear="both">
-
 <div align="center">
   <img src="https://cdn.simpleicons.org/flutter/02569B" height="30" alt="flutter logo"  />
   <img width="10" />
@@ -58,18 +44,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
 
-###
-
-
-
-
-###
 <h2 align="left">Artificial Intelligence:</h2>
-
-###
-
 <br clear="both">
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo" />
   <img width="10" />
@@ -81,5 +57,3 @@
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="30" alt="matplotlib logo" />
 </div>
-
-###
