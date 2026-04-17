@@ -1,4 +1,4 @@
 <br clear="both">
 
-<h2 align="center">Interests: Artificial Intelligence | Software Engineering | Algorithm Design </h2>
+<h2 align="center">Interests: Software Engineering </h2>
 
