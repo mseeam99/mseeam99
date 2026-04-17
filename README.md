@@ -1,4 +1,4 @@
 <br clear="both">
 
-<h2 align="center">Software Engineer</h2>
+<h2 align="center">SOFTWARE ENGINEER</h2>
 
